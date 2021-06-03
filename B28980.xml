@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The right of the city of London, and their proceedings touching the regulation of hackny-coaches, standing in the said city and liberties thereof</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28980</idno><idno type="EEBO-CITATION">99832247</idno>
+  <idno type="VID">198957</idno>
+  <idno type="EEBO-PROQUEST">2240917518</idno>
+  
+            <idno type="STC">Wing R1506</idno>
+            <idno type="PROQUEST">99832247</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99832247e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28980)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 198957)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 21242:157)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The right of the city of London, and their proceedings touching the regulation of hackny-coaches, standing in the said city and liberties thereof</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed by Samuel Roycroft, printer to the honourable city of London,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1692/3.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Coach drivers --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Urban transportation --  Law and legislation --  England --  London --  Early works to 1800.</term>
+               <term type="topical_term">Carriages and carts --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:198957:1"/>
+            <head>
+               <figure>
+                  <figDesc>City of London coat of arms</figDesc>
+               </figure> The Right of the City of London, And their Proceedings touching the Regulation of Hackny-Coaches, standing in the said City and Liberties thereof.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE City of <hi>LONDON,</hi> by Ancient Usage, ratified and confirmed by Charters and Acts of Parlia<g ref="char:EOLhyphen"/>ment, have made By-Laws for the good Government of, and the preventing Disorders in the same City and Liberties thereof.</p>
+            <p>In pursuance whereof the <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> and <hi>Commonalty</hi> in Common Council Assem<g ref="char:EOLhyphen"/>bled, many years since did (in respect of the Inconveniences and Annoyances, occasioned by a multitude of <hi>Carrs</hi>) by Act of Common-Council reduce and limit their Number to 420, and Ap<g ref="char:EOLhyphen"/>pointed them places where to stand, and how many in each place, with Penalties to be inflicted on the Offenders; which upon Trials in <hi>Westminster-Hall</hi> have been Adjudged good in Law.</p>
+            <p>In like manner, for the prevention of Disorders and Nusances within the said City and Liberties, arising from an excessive Number of Hackny-Coaches stopping up the Passages and Streets, the <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> and <hi>Commonalty</hi> in Common Council Assembled, (after the Act of 14 <hi>Car.</hi> 2. touching Hackny-Coaches was Expired) did by Advice of Able and Learned Counsel in the Law, restrain the Number of Hackny Coaches to 400, as the aforesaid Act of Parliament had done.</p>
+            <p>By which said By-Law (amongst other Provisions therein) the Rates for Carriage, to avoid Exactions, were setled, the Places where to stand, and the Numbers that at each Place should ply, and at what Distances, were Appointed, to prevent the pestering and annoying the Streets, and that they should give way to any Gentlemans Coach where need should require: And each Coach<g ref="char:EOLhyphen"/>man to have a Mark of Distinction on his Coach whereby to be known, in case of Misbehaviour; and that no Person keep more than Two Coaches, as by the said <hi>Stat.</hi> 14 <hi>Car.</hi> 2. was provided.</p>
+            <p>The said By-Law was put in Execution, till the Judgment given against the City in the <hi>Quo Warranto;</hi> but then it was holden, that the Execution thereof was by the said Judgment suspended, and so continued till the Reversal of the said Judgment, and the restauration of the Ancient Rights and Priviledges to this City, by the late Act of Parliament.</p>
+            <p>Since then, many Disorders of the Hackny-Coachmen having been Presented by the Inquests of several Wards of the same City; also many Complaints of the Citizens and Inhabitants in General, made to the Court of <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> the same was reserred to a <hi>Committee of Aldermen;</hi> and upon their Report the Court of <hi>Lord Mayor</hi> and <hi>Aldermen</hi> did on the 9th Day of <hi>June,</hi> 1691, Order, that the said By-Law should be put in Execution, which was accordingly done; and the City was thereby, for that Year, much Eased from the many Disorders and Nusances occasioned by the great Number of Hackny Coaches.</p>
+            <p>The like Order was made in the Year 1692, and then only 160 Coachmen, or thereabouts, submitted to it; the Residue, who were by the said By-Law restrained to Drive each of them only One, or at the most Two Coaches, are the Persons who now pretend themselves Aggrieved, because they would not be confined to any Number of Regulation, but have combined to avoid and elude the said By Law, and at this time Drive Three, Four, Five, and some of them more Coaches apiece, by which means the Number of <hi>Hackny-Coaches</hi> are increased to about a Thousand.</p>
+            <p>Whereby not only all the former Nusances and Disorders are returned upon the City: But the Poorer sort of Coachmen, and the Poor Widows of others are ruined and undone, who (as long as the Rules and Orders of the same By-Law were observed) could and did maintain themselves and Families.</p>
+            <p>For prevention whereof, the <hi>Committee of Aldermen</hi> did cause several of the Chief Offenders to be Summoned before them, who obstinately persisting in their Offences, some of them were Sued pursuant to the aforesaid By-Law (the Penalties whereof being 10 s. and others 40 s.) and some of the said Suits were removed by <hi>Certiorari</hi> into the Court of <hi>Kings Bench,</hi> where they are now depending; and the Proceedings against the residue are stopt by Order of the Court of <hi>Lord Mayor</hi> and <hi>Aldermen,</hi> to attend the Judgment that shall there be given.</p>
+            <p>Also several <hi>Hackny-Coachmen</hi> have been Indicted for the Standing of their Coaches, as Common Nusances; and for Assaulting and Beating several Constables and Inhabitants of this City, for endeavouring to remove them from before their Shops, that their Customers, who were coming, might come to them; and thereupon have pleaded Guilty, or by the Jury have been found so: And the Fines imposed on them severally did not exceed 3 s. and 4 d. or 5 s. at the most for any one Nusance; and 'tis humbly conceived, their paying the Tax laid on them by Act of Parliament (as others also do) doth not give them Liberty to live in the Transgression of all, or any other Law, or to contemn the Government of the said City.</p>
+            <p>The Mony that was paid for each Hackny-Coachman's License, was 16 s. 4 d. and no more, and which was voluntarily paid, being the Common Fees for the same, and was paid to and for the several Officers that are concerned in the Writing, Sealing, Passing and Recording the said Licenses.</p>
+            <p>For the Remainder of the 45 s. alledged to be paid (if the same were paid) the same was by Agreement amongst themselves Advanced and by themselves was Disposed as they thought fit; and was not Advanced not Disposed of by any Order or Direction of the Court of <hi>Lord Mayor</hi> and <hi>Aldermen.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>SAMƲEL ROYCROFT,</hi> Printer to the Honourable City of <hi>LONDON,</hi> 1692/3.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
